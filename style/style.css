@@ -1,0 +1,14 @@
+#title {
+    color: blue;
+    background-color: darkcyan;
+}
+
+.important {
+    color: blue;
+    font-size: 100px;
+    background-color: brown;
+}
+.quotes, #quote { 
+    color: blue; 
+    background-color: black;
+}

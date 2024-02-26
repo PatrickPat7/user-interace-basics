@@ -1,0 +1,31 @@
+main {
+    height: 100vh;
+    background-color: darkmagenta;
+}
+footer {
+    background-color: #37393d;
+    height: 400px;
+}
+h1, h2, h3 {
+    color: rgb(71, 74, 74);
+}
+p {
+    min-height: 50px;
+    width: 100%;
+    background-color: rgba(23, 44, 70, 0.6);
+}
+a:hover {
+    font-weight: bold;
+    color: white;
+}
+a {
+    color: white;
+}
+img {
+    border-radius: 10px 20px 50px 70px;
+    border-style: double;
+    border-width: 5px;
+    object-fit: cover; contain: layout;
+    margin: 20px;
+    padding: 7px;
+}
